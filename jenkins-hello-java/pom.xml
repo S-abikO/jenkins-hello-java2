@@ -17,7 +17,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <!-- JaCoCo Properties -->
-    <jacoco-maven.version>0.7.9</jacoco-maven.version>
+    <jacoco-maven.version>0.8.6</jacoco-maven.version>
     <jacoco.include.package>**/*</jacoco.include.package>
   </properties>
 
